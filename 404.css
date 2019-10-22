@@ -46,6 +46,10 @@ a {
 }
 
 @media screen and (max-width: 800px){
+    .error-template{
+        padding-top: 10%;
+    }
+    
     .icon{
         width: 25%;
         height: 25%;
